@@ -2,8 +2,8 @@
 
 # this is your main nagios server and
 # where ansible will deploy it.
-[nagios]
-ip-172-31-27-113.us-east-2.compute.internal
+#[nagios]
+#ip-172-31-27-113.us-east-2.compute.internal
 
 [servers]
 ip-172-31-9-151.us-east-2.compute.internal
